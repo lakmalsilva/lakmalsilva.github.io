@@ -5,6 +5,19 @@
 
 **Licenciate Dissertation in Software Engineering**
 
+## Key Information
+
+Defense date and location: June 12/13, 2023
+
+Venue: Campus Gräsvik, J Building, Blekinge Institute of Technology, Karlskrona, Sweden
+
+Opponent: To be determined
+
+Main supervisor: Senior lecturer Dr. Michael Unterkalmsteiner.
+
+Supervisor: Associate professor Dr. Krzysztof Wnuk.
+
+Examiner: Associate professor Dr. Krzysztof Wnuk.
 
 ## List of papers included in the thesis
 
