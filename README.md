@@ -8,7 +8,7 @@
 ## List of papers included in the thesis
 
 ### Chapter 2 - On designing a process for identifying Architectural Technical Debt from Bug Reports
- **L. Silva**, M. Unterkalmsteiner , K. Wnuk | [Download](https://dl.acm.org/doi/pdf/10.1145/3524843.3528099)
+ **L. Silva**, M. Unterkalmsteiner , K. Wnuk | <a href="[http://example.com/](https://dl.acm.org/doi/pdf/10.1145/3524843.3528099)" target="_blank">Download</a>
  
 #### Abstract
 
