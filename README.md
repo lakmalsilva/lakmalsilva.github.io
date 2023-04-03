@@ -1,4 +1,6 @@
-# On a quest to identify technical debt from bug reports in the industry
+---
+title: "On a quest to identify technical debt from bug reports in the industry"
+---
 
 **Lakmal Silva**
 
