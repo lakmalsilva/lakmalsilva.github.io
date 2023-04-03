@@ -22,7 +22,7 @@ Examiner: Associate professor Dr. Krzysztof Wnuk.
 ## List of papers included in the thesis
 
 ### Chapter 2 - On designing a process for identifying Architectural Technical Debt from Bug Reports
- **L. Silva**, M. Unterkalmsteiner , K. Wnuk | [Download]
+ **L. Silva**, M. Unterkalmsteiner , K. Wnuk | To be provided separately
  
 #### Abstract
 
