@@ -1,4 +1,8 @@
-# On a quest to identify technical debt in industry from bug reports
+# On a quest to identify technical debt from bug reports in the industry
+Lakmal Silva
+
+Licenciate Dissertation in Software Engineering
+
 
 ## List of papers included in the thesis
 
