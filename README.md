@@ -6,7 +6,7 @@
 
 ## List of papers included in the thesis
 
-### **Chapter 2** On designing a process for identifying Architectural Technical Debt from Bug Reports
+### Chapter 2 - On designing a process for identifying Architectural Technical Debt from Bug Reports
  **L. Silva**, M. Unterkalmsteiner , K. Wnuk
  
 #### Abstract
@@ -21,7 +21,7 @@
 
 ***Conclusions:*** Our study indicates that bug reports can be used as a data source for identifying ATD using our proposed process and decision-making activities. Furthermore, we emphasize the need for clarity and consensus among the stakeholders regarding the scope and boundaries of architectural components that constitute a software system for the ATD analysis to be relevant.
 
-### **Chapter 3** MultiDimEr: a multi-dimensional bug analyzEr
+### Chapter 3 - MultiDimEr: a multi-dimensional bug analyzEr
  **L. Silva**, M. Unterkalmsteiner , K. Wnuk
 
 #### Abstract
@@ -36,7 +36,7 @@
 
 ***Conclusions:*** By analyzing the dimensions provided by MultiDimEr, we show that classifying and visualizing bug reports in different dimensions can stimulate discussions around bug hot spots as well as validating the accuracy of manually entered bug report attributes used in technical debt measurements such as fault slip through.
                     
-### **Chapter 4** owards identifying and minimizing customer-facing documentation debt
+### Chapter 4 - Towards identifying and minimizing customer-facing documentation debt
 **L. Silva**, M. Unterkalmsteiner , K. Wnuk
 
 #### Abstract
