@@ -22,8 +22,8 @@ Examiner: Associate professor Dr. Krzysztof Wnuk.
 ## List of papers included in the thesis
 
 ### Chapter 2 - On designing a process for identifying Architectural Technical Debt from Bug Reports
- **L. Silva**, M. Unterkalmsteiner , K. Wnuk | To be provided separately
- 
+ **L. Silva**, M. Unterkalmsteiner , K. Wnuk | <a href="https://github.com/lakmalsilva/lakmalsilva.github.io/blob/main/papers/ATD.pdf" target="_blank">Download</a>
+  
 #### Abstract
 
 *Background:* A key challenge with Architectural Technical Debt (ATD) is ATD identification. Most existing methods use source code analysis that does not capture the hidden ATD in the architecture design. A few studies focus on ATD identification in software architecture design, but it is unclear whether they can scale to industrial contexts.
