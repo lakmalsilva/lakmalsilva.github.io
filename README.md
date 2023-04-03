@@ -6,7 +6,7 @@
 
 ## List of papers included in the thesis
 
-### **Chapter 2* On designing a process for identifying Architectural Technical Debt from Bug Reports
+### **Chapter 2** On designing a process for identifying Architectural Technical Debt from Bug Reports
  **L. Silva**, M. Unterkalmsteiner , K. Wnuk
  
 #### Abstract
@@ -21,25 +21,33 @@
 
 ***Conclusions:*** Our study indicates that bug reports can be used as a data source for identifying ATD using our proposed process and decision-making activities. Furthermore, we emphasize the need for clarity and consensus among the stakeholders regarding the scope and boundaries of architectural components that constitute a software system for the ATD analysis to be relevant.
 
-### **Chapter 3* MultiDimEr: a multi-dimensional bug analyzEr
+### **Chapter 3** MultiDimEr: a multi-dimensional bug analyzEr
  **L. Silva**, M. Unterkalmsteiner , K. Wnuk
 
 #### Abstract
 
 ***Background:*** Bugs and bug management consumes a significant amount of time and effort from software development organizations. A reduction in bugs can significantly improve the capacity for new feature development.
+
 ***Aims:*** We categorize and visualize dimensions of bug reports to identify accruing technical debt.  This evidence can serve practitioners and decision makers not only as an argumentative basis for steering improvement efforts, but also as a starting point for root cause analysis, reducing overall bug inflow.
+
 ***Method:*** We implemented a tool, MultiDimEr, that analyzes and visualizes bug reports. The tool was implemented and evaluated at Ericsson.
+
 ***Results:*** We present our preliminary findings using the MultiDimEr for bug analysis, where we successfully identified components generating most of the bugs and  bug trends within certain components.
-***Conclusions:*** By analyzing the dimensions provided by MultiDimEr, we show that classifying and visualizing bug reports in different dimensions can stimulate discussions around bug hot spots as well as validating the accuracy of manually entered bug report attributes used in technical debt measurements such as fault slip through.</p>
+
+***Conclusions:*** By analyzing the dimensions provided by MultiDimEr, we show that classifying and visualizing bug reports in different dimensions can stimulate discussions around bug hot spots as well as validating the accuracy of manually entered bug report attributes used in technical debt measurements such as fault slip through.
                     
-### **Chapter 4* owards identifying and minimizing customer-facing documentation debt
+### **Chapter 4** owards identifying and minimizing customer-facing documentation debt
 **L. Silva**, M. Unterkalmsteiner , K. Wnuk
 
 #### Abstract
 
 ***Background:*** Software documentation often struggles to catch up with the pace of software evolution. The lack of correct, complete, and up-to-date documentation results in an increasing number of documentation defects which could introduce delays in integrating software systems. In our previous study on a bug analysis tool called MultiDimEr, we provided evidence that documentation-related defects contribute to a significant number of bug reports.
+
 ***Aims:*** First, we want to identify documentation defect types contributing to documentation defects and thereby identifying documentation debt. Secondly, we aim to find pragmatic solutions to minimize most common documentation defects to pay off the documentation debt in the long run.
+
 ***Method:*** We investigated documentation defects related to an industrial software system. First, we looked at the types of different documentation and associated bug reports. We categorized the defects according to an existing documentation defect taxonomy.
+
 ***Results:*** Based on a sample of 101 defects, we found that a majority of defects are caused by documentation defects falling into the Information Content (What) category (86). Within this category, the documentation defect types Erroneous code examples (23), Missing documentation (35), and Outdated content (19) contributed to most of the documentation defects. We propose to adapt two solutions to mitigate these types of documentation defects.
+
 ***Conclusions:*** In practice, documentation debt can easily go undetected since a large share of resources and focus is dedicated to deliver high-quality software. This study provides evidence that documentation debt can contribute to increase in maintenance costs due to the number of documentation defects. We suggest to adapt two main solutions to tackle documentation debt by implementing (i) Dynamic Documentation Generation (DDG) and/or (ii) Automated Documentation Testing (ADT), which are both based on defining a single and robust information source for documentation.
    
