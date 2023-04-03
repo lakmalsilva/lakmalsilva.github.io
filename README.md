@@ -1,5 +1,7 @@
+---
+title: On a quest to identify technical debt from bug reports in the industry
+---
 
-# On a quest to identify technical debt from bug reports in the industry
 **Lakmal Silva**
 
 **Licenciate Dissertation in Software Engineering**
