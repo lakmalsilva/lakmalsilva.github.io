@@ -52,7 +52,7 @@ Examiner: Associate professor Dr. Krzysztof Wnuk.
 *Conclusions:* By analyzing the dimensions provided by MultiDimEr, we show that classifying and visualizing bug reports in different dimensions can stimulate discussions around bug hot spots as well as validating the accuracy of manually entered bug report attributes used in technical debt measurements such as fault slip through.
                     
 ### Chapter 4 - Towards identifying and minimizing customer-facing documentation debt
-**L. Silva**, M. Unterkalmsteiner , K. Wnuk | To be provided separately
+**L. Silva**, M. Unterkalmsteiner , K. Wnuk | <a href="[https://dl.acm.org/doi/pdf/10.1145/3524843.3528099](https://github.com/lakmalsilva/lakmalsilva.github.io/blob/main/papers/doc_debt.pdf)" target="_blank">Download</a>
 
 #### Abstract
 
