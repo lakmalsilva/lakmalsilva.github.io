@@ -1,9 +1,9 @@
 
-# On a quest to identify technical debt from bug reports in the industry
+# On identifying technical debt using bug reports in practice
 
 **Lakmal Silva**
 
-**Licenciate Dissertation in Software Engineering**
+**Licenciate Thesis in Software Engineering**
 
 ## Key Information
 
@@ -13,9 +13,9 @@ Venue: Campus Gräsvik, J Building, Blekinge Institute of Technology, Karlskrona
 
 Opponent: To be determined
 
-Main supervisor: Senior lecturer Dr. Michael Unterkalmsteiner.
+Main supervisor: Associate professor Dr. Krzysztof Wnuk.
 
-Supervisor: Associate professor Dr. Krzysztof Wnuk.
+Supervisor: Senior lecturer Dr. Michael Unterkalmsteiner.
 
 Examiner: Associate professor Dr. Krzysztof Wnuk.
 
