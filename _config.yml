@@ -2,4 +2,8 @@ theme: minima
 
 author:
   name: Lakmal Silva
-  email: "lakmal.silva@bth.se"
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
