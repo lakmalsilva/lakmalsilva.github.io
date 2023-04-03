@@ -1,11 +1,8 @@
-#On a quest to identify technical debt in industry from bug reports
+# On a quest to identify technical debt in industry from bug reports
 
-##List of papers included in the thesis
+## List of papers included in the thesis
 
-###
-
-
-####MultiDimEr: a multi-dimensional bug analyzEr
+###MultiDimEr: a multi-dimensional bug analyzEr
 
 \textit{\textbf{Background:}} Bugs and bug management consumes a significant amount of time and effort from software development organizations. A reduction in bugs can significantly improve the capacity for new feature development.
                     \textit{\textbf{Aims:}} We categorize and visualize dimensions of bug reports to identify accruing technical debt.  This evidence can serve practitioners and decision makers not only as an argumentative basis for steering improvement efforts, but also as a starting point for root cause analysis, reducing overall bug inflow.
