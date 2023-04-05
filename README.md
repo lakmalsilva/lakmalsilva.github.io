@@ -11,7 +11,7 @@ Defense date and location: June 12/13, 2023
 
 Venue: Campus Gräsvik, J Building, Blekinge Institute of Technology, Karlskrona, Sweden
 
-Opponent: To be determined
+Opponent: Associate Professor Davide Taibi
 
 Main supervisor: Associate professor Dr. Krzysztof Wnuk.
 
