@@ -7,7 +7,7 @@
 
 ## Key Information
 
-Defense date and location: June 12/13, 2023
+Defense date and location: June 12, 2023 at 0900.
 
 Venue: Campus Gräsvik, J Building, Blekinge Institute of Technology, Karlskrona, Sweden
 
