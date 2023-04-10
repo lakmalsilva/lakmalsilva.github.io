@@ -9,15 +9,15 @@
 
 Defense date and location: June 12, 2023 at 0900.
 
-Venue: Campus Gräsvik, J Building, Blekinge Institute of Technology, Karlskrona, Sweden
+Venue: Campus Gräsvik, J Building, Blekinge Institute of Technology, Karlskrona, Sweden.
 
-Opponent: Associate Professor Davide Taibi (Tampere University, Finland)
+Opponent: Associate Professor Davide Taibi (Tampere University, Finland).
 
-Main supervisor: Associate professor Dr. Krzysztof Wnuk (Blekinge Institute of Technology, Karlskrona, Sweden).
+Main supervisor: Associate professor Dr. Krzysztof Wnuk (Blekinge Institute of Technology, Sweden).
 
-Supervisor: Senior lecturer Dr. Michael Unterkalmsteiner (Blekinge Institute of Technology, Karlskrona, Sweden).
+Supervisor: Senior lecturer Dr. Michael Unterkalmsteiner (Blekinge Institute of Technology, Sweden).
 
-Examiner: Associate professor Dr. Krzysztof Wnuk (Blekinge Institute of Technology, Karlskrona, Sweden).
+Examiner: Associate professor Dr. Krzysztof Wnuk (Blekinge Institute of Technology, Sweden).
 
 ## List of papers included in the thesis
 
