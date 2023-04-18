@@ -9,7 +9,7 @@
 
 Defense date and location: June 12, 2023 at 0900.
 
-Venue: Campus Gräsvik, J Building, Blekinge Institute of Technology, Karlskrona, Sweden.
+Venue: Campus Gräsvik, J Building, Room J1630, Blekinge Institute of Technology, Karlskrona, Sweden.
 
 Opponent: Associate Professor Davide Taibi (Tampere University, Finland).
 
